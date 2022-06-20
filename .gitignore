@@ -1,7 +1,7 @@
 /node_modules/
 /public/build/
 
-.DS_Store
 .yarn
 .vscode
+.DS_Store
 yarn.lock
