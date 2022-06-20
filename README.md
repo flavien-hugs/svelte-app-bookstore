@@ -10,7 +10,7 @@ cd svelte-app
 yarn add
 ```
 
-...then start [Rollup](https://rollupjs.org):
+Start server :
 
 ```bash
 npm run dev
